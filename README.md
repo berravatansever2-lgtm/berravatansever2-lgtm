@@ -26,6 +26,6 @@ I'm working on:
 Quant research internships, research opportunities, and people 
 worth learning from. Always open for a new conversation!
 
-📬 [berra.vatansever2@gmail.com] · 💼 [linkedin.com/in/berra-vatansever/]
+📬 [berra.vatansever2@gmail.com] · 💼 [linkedin.com/in/berra-vatansever/](https://linkedin.com/in/berra-vatansever/)
 
 ---
