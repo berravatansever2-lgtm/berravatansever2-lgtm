@@ -1,4 +1,4 @@
-👋 Hi, I'm Berra
+# 👋 Hi, I'm Berra
 
 Incoming Columbia University OR:FE undergraduate (Class of 2030), 
 CP Davis Scholar. I'm building toward a career in quantitative 
