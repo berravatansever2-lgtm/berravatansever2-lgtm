@@ -13,6 +13,7 @@ I'm working on:
   before university.
 - 🐍 **Python** — financial data pipelines, backtesting frameworks, 
   ML pipelines. See pinned projects below.
+  🔗 [Try the interactive simulation here](https://www.berravatansever.com/interactive-game-theoretical-stock-ma)
 - 🔬 **Research** — published econometric work on monetary policy 
   across 104 countries. Game-theoretic Nash equilibrium simulation 
   of financial markets.
