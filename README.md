@@ -20,5 +20,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=berravatansever2-lgtm&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
