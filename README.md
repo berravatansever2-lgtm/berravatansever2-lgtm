@@ -18,5 +18,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=berravatansever2-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=berravatansever2-lgtm&icon=0&color=6)](https://visitcount.itsvg.in)
